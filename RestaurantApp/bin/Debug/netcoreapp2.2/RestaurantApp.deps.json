@@ -26,13 +26,33 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "Restaurant.DataModel": "1.0.0"
         },
         "runtime": {
           "RestaurantApp.dll": {}
         },
         "compile": {
           "RestaurantApp.dll": {}
+        }
+      },
+      "Restaurant.BusinessModel/1.0.0": {
+        "runtime": {
+          "Restaurant.BusinessModel.dll": {}
+        },
+        "compile": {
+          "Restaurant.BusinessModel.dll": {}
+        }
+      },
+      "Restaurant.DataModel/1.0.0": {
+        "dependencies": {
+          "Restaurant.BusinessModel": "1.0.0"
+        },
+        "runtime": {
+          "Restaurant.DataModel.dll": {}
+        },
+        "compile": {
+          "Restaurant.DataModel.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3233,6 +3253,16 @@
   },
   "libraries": {
     "RestaurantApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restaurant.BusinessModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restaurant.DataModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

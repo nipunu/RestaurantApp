@@ -1,0 +1,9 @@
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\bin\Debug\netcoreapp2.0\Restaurant.BusinessModel.deps.json
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\bin\Debug\netcoreapp2.0\Restaurant.BusinessModel.dll
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\bin\Debug\netcoreapp2.0\Restaurant.BusinessModel.pdb
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\obj\Debug\netcoreapp2.0\Restaurant.BusinessModel.csprojAssemblyReference.cache
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\obj\Debug\netcoreapp2.0\Restaurant.BusinessModel.csproj.CoreCompileInputs.cache
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\obj\Debug\netcoreapp2.0\Restaurant.BusinessModel.AssemblyInfoInputs.cache
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\obj\Debug\netcoreapp2.0\Restaurant.BusinessModel.AssemblyInfo.cs
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\obj\Debug\netcoreapp2.0\Restaurant.BusinessModel.dll
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.BusinessModel\obj\Debug\netcoreapp2.0\Restaurant.BusinessModel.pdb

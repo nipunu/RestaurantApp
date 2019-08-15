@@ -1,0 +1,12 @@
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\bin\Debug\netcoreapp2.0\Restaurant.DataModel.deps.json
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\bin\Debug\netcoreapp2.0\Restaurant.DataModel.dll
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\bin\Debug\netcoreapp2.0\Restaurant.DataModel.pdb
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\bin\Debug\netcoreapp2.0\Restaurant.BusinessModel.dll
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\bin\Debug\netcoreapp2.0\Restaurant.BusinessModel.pdb
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\obj\Debug\netcoreapp2.0\Restaurant.DataModel.csprojAssemblyReference.cache
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\obj\Debug\netcoreapp2.0\Restaurant.DataModel.csproj.CoreCompileInputs.cache
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\obj\Debug\netcoreapp2.0\Restaurant.DataModel.AssemblyInfoInputs.cache
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\obj\Debug\netcoreapp2.0\Restaurant.DataModel.AssemblyInfo.cs
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\obj\Debug\netcoreapp2.0\Restaurant.DataModel.csproj.CopyComplete
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\obj\Debug\netcoreapp2.0\Restaurant.DataModel.dll
+D:\Workshops\ASPNETCore\RestaurantApp\Restaurant.DataModel\obj\Debug\netcoreapp2.0\Restaurant.DataModel.pdb

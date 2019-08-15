@@ -28,3 +28,8 @@ D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp2.2\Rest
 D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp2.2\RestaurantApp.dll
 D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp2.2\RestaurantApp.pdb
 D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp2.2\RestaurantApp.csproj.CopyComplete
+D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\List.g.cshtml.cs
+D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\bin\Debug\netcoreapp2.2\Restaurant.BusinessModel.dll
+D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\bin\Debug\netcoreapp2.2\Restaurant.DataModel.dll
+D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\bin\Debug\netcoreapp2.2\Restaurant.DataModel.pdb
+D:\Workshops\ASPNETCore\RestaurantApp\RestaurantApp\bin\Debug\netcoreapp2.2\Restaurant.BusinessModel.pdb

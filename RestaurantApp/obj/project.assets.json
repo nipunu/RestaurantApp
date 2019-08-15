@@ -4438,6 +4438,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Restaurant.BusinessModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Restaurant.BusinessModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Restaurant.BusinessModel.dll": {}
+        }
+      },
+      "Restaurant.DataModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Restaurant.BusinessModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Restaurant.DataModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Restaurant.DataModel.dll": {}
+        }
       }
     }
   },
@@ -12058,13 +12081,24 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Restaurant.BusinessModel/1.0.0": {
+      "type": "project",
+      "path": "../Restaurant.BusinessModel/Restaurant.BusinessModel.csproj",
+      "msbuildProject": "../Restaurant.BusinessModel/Restaurant.BusinessModel.csproj"
+    },
+    "Restaurant.DataModel/1.0.0": {
+      "type": "project",
+      "path": "../Restaurant.DataModel/Restaurant.DataModel.csproj",
+      "msbuildProject": "../Restaurant.DataModel/Restaurant.DataModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Restaurant.DataModel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12096,7 +12130,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Workshops\\ASPNETCore\\RestaurantApp\\Restaurant.DataModel\\Restaurant.DataModel.csproj": {
+              "projectPath": "D:\\Workshops\\ASPNETCore\\RestaurantApp\\Restaurant.DataModel\\Restaurant.DataModel.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
