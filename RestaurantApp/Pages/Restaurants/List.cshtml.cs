@@ -21,13 +21,25 @@ namespace RestaurantApp.Pages.Restaurants
         }
         public string Message { get; set; }
         public IEnumerable<MyRestaurant> Restaurants { get; set; }
+        [BindProperty(SupportsGet =true)]
+        public string SearchTerm { get; set; }
 
+        //public void OnGet(string searchTerm)
+        //{
+        //    //SearchTerm = searchTerm;
+        //    //Message = "Hello World";
+        //    Message = config["Message"];
+        //    //Restaurants = restaurantData.GetAll();
+        //    Restaurants = restaurantData.GetRestaurantsByName(searchTerm);
+        //}
 
         public void OnGet()
         {
+            //SearchTerm = searchTerm;
             //Message = "Hello World";
             Message = config["Message"];
-            Restaurants = restaurantData.GetAll();
+            //Restaurants = restaurantData.GetAll();
+            Restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
         }
     }
 }
